@@ -8,7 +8,7 @@ To manage my installations I use [chocolatey](chocolatey.org), which is a packag
 - [x] IntelliJ <br>
       Already installed on my computer.
 - [x] Maven <br>
-      Installed Apache Maven 3.6.3 .
+      Installed Apache Maven 3.6.3.
 - [x] Git <br>
       Already had version 2.28.0 installed.
 - [x] Heroku-Cli <br>
