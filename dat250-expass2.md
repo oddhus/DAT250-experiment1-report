@@ -6,7 +6,7 @@
 
 #### Technical problems
 
-I wasn't able to connect by just following the guide linked in the assignment. The problem was that the newest version of the derby-db need some additional jars, specifically derby.jar, derbyshared.jar and derbytools.jar.
+I first had some errors while trying to run my main method. After a lot of struggling, I found out that I was running my database in a seperate command window. My application was therefore not able to connect.
 
 #### Inspecting the database
 
