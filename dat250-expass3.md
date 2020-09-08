@@ -24,7 +24,7 @@
 
 ###### Remove
 
-![Remove Documents with MongoDB](https://github.com/oddhus/DAT250-reports/blob/master/images/RemoveDocuments.jpg)
+![Delete Documents with MongoDB](https://github.com/oddhus/DAT250-reports/blob/master/images/DeleteDocuments.jpg)
 
 ###### Bulk
 
