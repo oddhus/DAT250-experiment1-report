@@ -20,9 +20,9 @@ I had an error when using embedded classes. I first trid to set pincode as embed
 
 It is possible to inspect the database by opening the derby interactive scripting tool ij and use SQL.
 
-![Image of table inspection](https://github.com/oddhus/DAT250-reports/blob/master/db-inspection.jpg)
+![Image of table inspection](https://github.com/oddhus/DAT250-reports/blob/master/images/db-inspection.jpg)
 
-![Image of database overview](https://github.com/oddhus/DAT250-reports/blob/master/db-inspection2.jpg)
+![Image of database overview](https://github.com/oddhus/DAT250-reports/blob/master/images/db-inspection2.jpg)
 
 ### Pending issues
 
