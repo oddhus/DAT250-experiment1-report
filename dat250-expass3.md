@@ -2,7 +2,7 @@
 
 ## Technical problems
 
-My [Map-reduce function](#Code) first returned NaN when adding together the quantity. To fix this i needed to add this part:
+My [Map-reduce function](#Code) first returned NaN when adding together the quantity. To fix this i needed to add this part in my reduce function:
 
 ```javascript
 if (reducedVal[items[idx].sku] == undefined) {
@@ -14,11 +14,11 @@ if (reducedVal[items[idx].sku] == undefined) {
 
 ### Experiment 1: MongoDB CRUD operations
 
-##### The correct validation of installation pacakage
+#### Validation of installation package
 
 ![Image of package validation](https://github.com/oddhus/DAT250-reports/blob/master/images/install_validation.jpg)
 
-##### CRUD operations
+#### CRUD operations
 
 ###### Create
 
@@ -42,11 +42,11 @@ if (reducedVal[items[idx].sku] == undefined) {
 
 ### Experiment 2: Aggregation
 
-##### Working example
+#### Working example
 
 ![MapReduce example with MongoDB](https://github.com/oddhus/DAT250-reports/blob/master/images/MapReduceExample.jpg)
 
-##### My Map-reduce implementation
+#### My Map-reduce implementation
 
 ###### Code
 
