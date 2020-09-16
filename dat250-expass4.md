@@ -8,7 +8,7 @@ No problems related to installation of JPA.
 
 ##### Experiment 2
 
-[Here](https://github.com/oddhus/DAT250-experiment4-REST)Here is my REST API for TODO-items.
+[Here](https://github.com/oddhus/DAT250-experiment4-REST) is my REST API for TODO-items.
 
 ##### Experiment 3 and 4
 
