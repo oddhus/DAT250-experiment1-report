@@ -8,7 +8,7 @@ No problems .
 
 #### Experiment 1,2,3
 
-[Here](https://github.com/oddhus/DAT250-Experiment7-RappitMQ) is the RabvitMQ scripts.
+[Here](https://github.com/oddhus/DAT250-Experiment7-RappitMQ) is the RabbitMQ scripts.
 
 ### Pending Issues
 
